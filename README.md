@@ -25,3 +25,11 @@ This project introduces a smart IoT system designed to monitor and evaluate frui
 * `/model_training`: Google Colab scripts for training and testing the YOLOv11 model.
 * `/raspberry_pi_backend`: Python Flask server handling sensor data collection, OpenCV framing, YOLO inference, and Google Sheets logging.
 * `/flutter_app`: Dart source code for the mobile Human-Machine Interface (HMI).
+
+## 🏆 Awards & Recognition
+* **Silver Medal** – Malaysia Invention & Innovation Expo (MIIX) 2025.
+* **Degree Capstone Project** – Universiti Teknologi Malaysia (UTM).
+
+## 📄 Documentation & Demo
+* **[View Full Technical Report](https://github.com/YuShen011/IoT-Fruit-Freshness-Detection/blob/main/IoT-Fruit-Freshness-Detection/docs/IoT_Fruit_Freshness_Technical_Report.pdf):** Detailed system architecture, circuit schematics, and STEEP analysis.
+* **[Watch Project Demo Video](https://www.youtube.com/watch?v=z6m1sWlESlw&t):** See the real-time YOLOv11 detection and Flutter app integration in a live supermarket setting.
